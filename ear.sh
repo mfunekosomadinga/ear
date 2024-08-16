@@ -1,3 +1,4 @@
+#!/bin/sh
 export DEBIAN_FRONTEND=noninteractive
 DEBIAN_FRONTEND=noninteractive
 
